@@ -361,4 +361,8 @@ $qr->wiFi([
 </tbody>
 </table>
 <p><a id="docs-outside-laravel"></a><br>
+  <strong>Não se esqueça de tirar o ; do ;extension=gd no caminho <code>xampp/php/php.ini</code></strong>
+  <p> Caso não tenha instalado o image magick instale seguindo esse passo a passo:
+    <a href="https://ourcodeworld.com/articles/read/349/how-to-install-and-enable-the-imagick-extension-in-xampp-for-windows">Magick</a>
 </div></div>
+
