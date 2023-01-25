@@ -35,7 +35,7 @@ $d->generate('Me transforme em um QrCode!');</code></pre>
 <pre><code>$qr =new Generator
 $qr->format('png');  // Retornará uma imagem no formato PNG
 $qr->format('eps');  // Retornará uma imagem no formato EPS
-$qr->format('svg');;  // Retornará uma imagem no formato SVG</code></pre>
+$qr->format('svg');  // Retornará uma imagem no formato SVG</code></pre>
 <h4 id="alteração-de-tamanho">Alteração de Tamanho</h4>
 <blockquote>
   <p>Por padrão, o gerador QrCode retornará o menos tamanho possível em pixels para criar o QrCode.</p>
